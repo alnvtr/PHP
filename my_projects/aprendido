@@ -1,0 +1,40 @@
+declarar variáveis com $
+printf = echo
+"strings"
+=(recebe).
+==(igual).
+<=(menor igual).
+>=(maior igual).
+!=(diferente).
+||(ou).
+&&(and).
+++(soma 1).
+--(subtrai 1).
++=(valor da variavel mais um valor).
+-=(valor da variável menos um valor).
+TOMADA DE DECIÇÔES E LAÇOS
+usado ára tomar decisões:
+if(se).
+else if(se não se).
+else(senão).
+laços:
+for(para)(quando sabemos onde parar o programa).
+while(enquanto)(quando não sabemos quando o programa irá parar). "tanto quando for nescessário"
+foreach(
+ARRAYS
+string("").
+Matriz([n]).
+Matriz Associativa([n=>m]).
+funções(function(parametro){comando}).
+subrotinas(são funções que não retornam valores).
+include(inclui um codigo salvo em outro arquivo).
+require(também inclui um código porém avisa se não foi encontrado o código).
+require_once(funciona como o require mas não permite que um arquivo de código seja incluido mais de uma vez).
+valores & referencias.
+passagem valor - altera uma cópia.
+passagem por referência(endereço) - altera a variável originals.
+string complexa ({}).
+unset($valor)(remove um ítem do array).
+
+
+

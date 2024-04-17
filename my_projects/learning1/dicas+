@@ -1,1 +1,7 @@
-count($lista) -> conta o tamanho da lista
+
+
+-count($lista) -> conta o tamanho da lista;
+-uma função só reconhece valores que foram declarados dentro da função;
+-em uma matriz é possível declarar o indice;
+ex: matriz[1,2,3,4,] os indices de cada itém são - 0=>1, 1=>2, 2=>3, 3=>4; você pode declarar uma chave(Prymary key);
+- "=>" isso é uma "seta" em php, e serve para atribuir um indice ou uma informação em uma matriz.
